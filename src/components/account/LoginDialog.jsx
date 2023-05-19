@@ -5,6 +5,14 @@ const dialogStyle = {
   marginTop: "10%",
 };
 
+const TextBaru = () =>{
+  return(
+    <Text open={true}>
+      <p>Whatshapp Web</p>
+    </Text>
+  )
+}
+
 const LoginDialog = () => {
   return (
     <Dialog open={true}>

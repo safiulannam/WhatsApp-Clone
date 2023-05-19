@@ -8,7 +8,7 @@ const Component = styled(Box)({
 
 const Header = styled(AppBar)({
   height: 220,
-  backgroundColor: "#00bfa5",
+  backgroundColor: "#00A884",
   boxShadow: "none",
 });
 const Messenger = () => {
