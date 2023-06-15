@@ -18,7 +18,8 @@ const LoginDialog = () => {
     <Dialog open={true}>
       <p>Hello From Login</p>
     </Dialog>
-  );
-};
+
+  )
+}
 
 export default LoginDialog;
